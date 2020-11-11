@@ -1,0 +1,37 @@
+*{
+    background-color: powderblue;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    position:absolute;
+    top:195px;
+    left:580px;
+    
+}
+#demo{
+height:100px;
+position:absolute;
+top:35%;
+left:40%;
+font-size: 25px;
+font:powderblue;
+
+}
+
+#seconds,#tens{
+    font-size: 50px;
+
+}
+#button-start:hover,#button-stop:hover,#button-reset:hover{
+   background-color:steelblue;
+   font-size: 25px;
+   
+}
+#button-start,#button-stop,#button-reset{
+    border-radius: 5px;
+    margin:5px;
+}
